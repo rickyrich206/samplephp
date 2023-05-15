@@ -1,0 +1,2 @@
+[[tool.oryx.build-commands]]
+command = "PHP_VERSION=8.0"
